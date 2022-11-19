@@ -1,0 +1,16 @@
+﻿08/20/2020 20:50:43:617 -----------------------------------------------------------------
+08/20/2020 20:50:43:617 NetpDoDomainJoin
+08/20/2020 20:50:43:617 NetpDoDomainJoin: using new computer names
+08/20/2020 20:50:43:617 NetpDoDomainJoin: NetpGetNewMachineName returned 0x0
+08/20/2020 20:50:43:617 NetpMachineValidToJoin: 'WIN-SMTC5JH595L'
+08/20/2020 20:50:43:617 NetpMachineValidToJoin: status: 0x0
+08/20/2020 20:50:43:617 NetpJoinWorkgroup: joining computer 'WIN-SMTC5JH595L' to workgroup 'WORKGROUP'
+08/20/2020 20:50:43:617 NetpValidateName: checking to see if 'WORKGROUP' is valid as type 2 name
+08/20/2020 20:50:43:649 NetpCheckNetBiosNameNotInUse for 'WORKGROUP' [ Workgroup as MACHINE]  returned 0x0
+08/20/2020 20:50:43:649 NetpValidateName: name 'WORKGROUP' is valid for type 2
+08/20/2020 20:50:43:680 NetpJoinWorkgroup: status:  0x0
+08/20/2020 20:50:43:680 NetpDoDomainJoin: status: 0x0
+11/18/2022 01:32:49:534 -----------------------------------------------------------------
+11/18/2022 01:32:49:534 NetpValidateName: checking to see if 'RAHUL-V' is valid as type 1 name
+11/18/2022 01:32:52:611 NetpCheckNetBiosNameNotInUse for 'RAHUL-V' [MACHINE] returned 0x0
+11/18/2022 01:32:52:611 NetpValidateName: name 'RAHUL-V' is valid for type 1
